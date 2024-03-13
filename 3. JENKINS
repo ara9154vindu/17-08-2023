@@ -471,7 +471,7 @@ name=raham
 
 1. USER DEFINED VARIABLES:
 a. local vars: we can define inside job
-2. global vars: we can define outside jobs
+b. global vars: we can define outside jobs
 
 2. JENKINS ENV VARS:
 their vars are going to change as per build.
